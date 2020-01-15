@@ -1,4 +1,5 @@
- var add = (num1, num2) => {
+// indentasi gak rapih, tag penutup ini gak perlu ada spasi
+var add = (num1, num2) => {
         return add = num1 + num2
     }
 var substract = (num1, num2) => {
